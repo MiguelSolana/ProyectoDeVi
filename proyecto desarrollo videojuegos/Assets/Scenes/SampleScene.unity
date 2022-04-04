@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ProyectoDeviUnity
       objectReference: {fileID: 0}
+    - target: {fileID: 8381248738983231681, guid: a3518bec341f9fd46ad32271510a7289, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3518bec341f9fd46ad32271510a7289, type: 3}
 --- !u!1 &705507993
