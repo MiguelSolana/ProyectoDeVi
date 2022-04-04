@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 0
-  controlID: 71
+  controlID: 60
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
-  controlID: 72
+  controlID: 61
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 221}
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 73
+  controlID: 62
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,22 +354,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\migue\proyecto desarrollo videojuegos
+  m_LastProjectPath: C:\Users\migue\Documents\ProyectoDeVi\proyecto desarrollo videojuegos
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ac8d0000
-    m_LastClickedID: 36268
-    m_ExpandedIDs: 00000000aa8d000000ca9a3b
+    m_SelectedIDs: 468e0000
+    m_LastClickedID: 36422
+    m_ExpandedIDs: 0000000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,7 +483,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffff30fbffff
+      m_ExpandedIDs: b2faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.38968956, y: 0.04584534, z: -0.019428123, w: 0.9196251}
+    m_Target: {x: 0.41175938, y: -0.15165783, z: 0.06970009, w: 0.8959039}
     speed: 2
-    m_Value: {x: 0.38970903, y: 0.044464797, z: -0.01884312, w: 0.919671}
+    m_Value: {x: 0.41185367, y: -0.15031023, z: 0.069080725, w: 0.89610904}
   m_Size:
-    m_Target: 51.683617
+    m_Target: 67.30552
     speed: 2
-    m_Value: 51.683617
+    m_Value: 64.407196
   m_Ortho:
     m_Target: 0
     speed: 2
